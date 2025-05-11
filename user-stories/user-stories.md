@@ -1,1 +1,5 @@
 As a user, I want to be able to register an account so that I can list my properties
+As a user, I want to be able to register an account so that I can list my properties
+As a user, I want to be able to register an account so that I can list my properties
+As a user, I want to be able to register an account so that I can list my properties
+As a user, I want to be able to register an account so that I can list my properties
